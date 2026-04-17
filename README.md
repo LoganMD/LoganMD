@@ -1,1 +1,1 @@
-hobbyist, student, and aspiring c++ dev. see projects and contributions below 👇
+hobbyist, c++ student, nerd. most my work is private, but you'll find some projects/contributions below
